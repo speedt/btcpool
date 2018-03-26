@@ -242,8 +242,9 @@ make -j4
 
 ```bash
 cd /work/btcpool/build
-mkdir /libethash
-cmake ../src/libethash
+mkdir ./libethash
+cd ./libethash
+cmake ../../src/libethash
 make install
 ```
 
