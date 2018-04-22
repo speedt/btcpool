@@ -11,3 +11,9 @@ cmake-build-debug/
 
 
 /install/run_*/
+
+btcpool.config
+btcpool.creator
+btcpool.files
+btcpool.includes
+btcpool.creator.user
